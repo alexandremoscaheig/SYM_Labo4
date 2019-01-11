@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SYM-Labo4</string>
+
+    <string name="main_btn_notification">Notification</string>
+    <string name="main_btn_application">Application</string>
+
+    <string name="notification_btn_display_notification">Show notification</string>
+    <string name="notification_btn_display_notification_1">Notification simple</string>
+    <string name="notification_btn_display_notification_2">Action buttons</string>
+    <string name="notification_btn_display_notification_3">Wearable only</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+
+</resources>
